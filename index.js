@@ -1,1 +1,1 @@
-console.log("Hello from Longs-repository");
+console.log("Hello world");
